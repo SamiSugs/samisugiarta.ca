@@ -1,0 +1,1 @@
+This is an ongoing project. I am building a personal site from scratch. Current plans are vague, but I am looking forward to learning. I have essentially zero experience with web dev, design, HTML, CSS, JS, etc. I am also using this project as a means to get familiar with git, for which my experience is also... limited.
