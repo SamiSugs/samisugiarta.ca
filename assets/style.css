@@ -1,8 +1,49 @@
 body {
-  background-color: #044d11;
+  background-color: #063009;
 }
 
 * {
-	color: white;
 	font-family: optima, "sans-serif;";
+	text-align: center;
+}
+
+p,
+a {
+	color: white;
+}
+
+a {
+  display: inline-block;
+}
+
+footer {
+	clear: left;
+}
+
+.column {
+	float: left;
+	width: 50%;
+}
+
+.header {
+	color: #2adb36;
+}
+
+.links {
+	margin: 10px;
+}
+
+.profile_pic {
+	border-radius: 35%;
+	margin-top: 50px;
+}
+
+.no_show_link {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
