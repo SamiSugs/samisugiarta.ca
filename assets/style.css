@@ -4,7 +4,6 @@ body {
 
 * {
 	font-family: optima, "sans-serif;";
-	text-align: center;
 }
 
 p,
@@ -20,9 +19,20 @@ footer {
 	clear: left;
 }
 
+.profile {
+	width: 30%;
+	height: 90%;
+	float: left;
+	text-align: center;
+}
+
 .column {
 	float: left;
-	width: 50%;
+	width: 70%;
+	height: 90%;
+	box-sizing: border-box;
+	padding: 70px;
+	text-align: left;
 }
 
 .header {
@@ -40,6 +50,14 @@ footer {
 
 .no_show_link {
 	text-decoration: none;
+}
+
+.text {
+	text-align: left;
+}
+
+#song {
+	text-align: center;
 }
 
 @media screen and (max-width: 600px) {
