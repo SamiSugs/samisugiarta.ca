@@ -29,6 +29,8 @@ footer {
 
 	.column {
 		width: 70%;
+		text-align: left;
+		padding: 70px;
 	}
 }
 
@@ -45,8 +47,7 @@ footer {
 .column {
 	float: left;
 	box-sizing: border-box;
-	text-align: left;
-	padding: 70px;
+	padding: 10px;
 }
 
 .links {
